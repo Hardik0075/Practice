@@ -128,7 +128,7 @@ div.god{
 div.end{
   text-align: justify;
   }
-  @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 576px) {
     div.main{
       float: none;
     width: 100%;
@@ -141,7 +141,7 @@ div.end{
     img.heimg{
         float: none;
         position: relative;
-        left:auto;
+        left:150px;
         right:auto;
         top:0px;
         bottom:0px;
