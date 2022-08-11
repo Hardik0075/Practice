@@ -1,17 +1,17 @@
 div{
   position: relative;
-border: 2px solid;
+
 
 
 }
 div.main{
 width:1490px;
-  left:0px;
+
 
 }
 div.header{
   width:1480px;
-left:10px;
+
 border-top:0px solid red ;
 border-left: 0px solid red ;
 border-right:0px solid red ;
@@ -137,13 +137,15 @@ div.end{
     div.form{
       float: none;
       bottom: 0px;
-      top: 100px;
-      right: 240px;
+
     }
     img.heimg{
-        float: none;
-        position: relative;
-        margin:0px auto; }
+       float:none;
+        left:250px;
+         right:auto;
+         top:0px;
+         bottom:0px;
+      }
     h1{
         float:  none;   left:auto;
           right:auto;
