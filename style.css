@@ -141,10 +141,13 @@ div.end{
     }
     img.heimg{
        float:none;
-        left:250px;
+        left:170px;
          right:auto;
          top:0px;
          bottom:0px;
+      }
+      p.v{ float:none;
+        width: 400px;
       }
     h1{
         float:  none;   left:auto;
