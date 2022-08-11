@@ -128,7 +128,7 @@ div.god{
 div.end{
   text-align: justify;
   }
-  @media only screen and (max-width: 576px) {
+  @media only screen and (min-width: 576px) {
     div.main{
       float: none;
     width: 100%;
