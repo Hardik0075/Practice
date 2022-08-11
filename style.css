@@ -1,6 +1,6 @@
 div{
   position: relative;
-
+border: 2px solid;
 
 
 }
@@ -128,7 +128,7 @@ div.god{
 div.end{
   text-align: justify;
   }
-  @media only screen and (min-width: 576px) {
+  @media only screen and (max-width: 500px) {
     div.main{
       float: none;
     width: 100%;
@@ -136,17 +136,14 @@ div.end{
     }
     div.form{
       float: none;
-      bottom:0px;
+      bottom: 0px;
+      top: 100px;
+      right: 240px;
     }
     img.heimg{
         float: none;
         position: relative;
-        left:150px;
-        right:auto;
-        top:0px;
-        bottom:0px;
-
-    }
+        margin:0px auto; }
     h1{
         float:  none;   left:auto;
           right:auto;
