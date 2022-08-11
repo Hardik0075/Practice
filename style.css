@@ -139,14 +139,14 @@ div.end{
       bottom: 0px;
 
     }
-    img.heimg{
+     img.heimg{
        float:none;
         left:170px;
          right:auto;
          top:0px;
          bottom:0px;
       }
-      p.v{ float:none;
+      p.v,p.g{ float:none;
         width: 400px;
       }
     h1{
